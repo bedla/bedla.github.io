@@ -1,0 +1,34 @@
+title: Ivo Šmíd homepage
+author:
+  name: Ivo Smid
+description: > # this means to ignore newlines until "show_excerpts:"
+  This is my personal homepage. From time to time I will put here posts about interesting topics I was digging deeper.
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    - { platform: github,         user_url: "https://github.com/bedla" }
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/publicstaticvoidmain" }
+    - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/535560/bedla-czech" }
+    - { platform: twitter,        user_url: "https://twitter.com/ivosmid" }
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
+# Google Analytics
+google_analytics: G-ZJHSDQ4RN3
