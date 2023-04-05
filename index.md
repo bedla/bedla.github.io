@@ -16,7 +16,7 @@ My interests are:
   - Java
   - Kotlin
   - Learning new stuff
-  - Contributing to open-source projects
+  - [Contributing to open-source projects](https://github.com/pulls?q=is%3Apr+author%3Abedla)
   - Going deeper to understand how JVM stuff works
 - Mountain biking
 - Snowboarding
