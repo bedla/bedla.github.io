@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "MSSQL and its locking of the DB objects"
-categories: mssql locking
+categories: 
+  - mssql
+  - locking
 ---
 
 In this tutorial I want to show how following scenarios of MSSQL locking works in the detail:

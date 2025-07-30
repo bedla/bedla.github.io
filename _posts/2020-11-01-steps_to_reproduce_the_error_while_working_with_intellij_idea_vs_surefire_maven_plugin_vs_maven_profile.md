@@ -1,7 +1,12 @@
 ---
 layout: post
 title: "Steps to reproduce the error while working with IntelliJ IDEA vs. surefire Maven plugin vs. Maven profile"
-categories: idea surfire system-properties error youtrack
+categories: 
+  - idea
+  - surfire
+  - system-properties
+  - error
+  - youtrack
 ---
 
 Repo to reproduce a problem with IDEA's JUnit run configuration with conjunction of Maven surefire plugin inside specific Maven's profile.

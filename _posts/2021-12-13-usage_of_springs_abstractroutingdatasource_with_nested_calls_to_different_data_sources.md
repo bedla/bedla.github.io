@@ -1,7 +1,12 @@
 ---
 layout: post
 title: "Usage of Spring's AbstractRoutingDataSource with nested calls to different data sources"
-categories: testcontainers postgresql docker jooq redis
+categories: 
+  - testcontainers
+  - postgresql
+  - docker
+  - jooq
+  - redis
 ---
 
 In this tutorial I want to show what is the problem when using Spring's `AbstractRoutingDataSource` with nested calls to different data sources.

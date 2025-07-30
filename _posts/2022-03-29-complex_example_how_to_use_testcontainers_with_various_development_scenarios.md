@@ -1,7 +1,12 @@
 ---
 layout: post
 title: "Complex example how to use Testcontainers with various development scenarios"
-categories: testcontainers postgresql docker jooq redis
+categories: 
+  - testcontainers
+  - postgresql
+  - docker
+  - jooq
+  - redis
 ---
 
 In this tutorial I want to show how to use Testcontainers with various development scenarios.

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "RabbitMQ Audit log"
-categories: rabbitmq audit
+categories: 
+  - rabbitmq
+  - audit
 ---
 
 In this tutorial I want to show how consume Audit log events fired by RabbitMQ.

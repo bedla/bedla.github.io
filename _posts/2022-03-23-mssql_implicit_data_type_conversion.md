@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "MSSQL implicit data type conversion"
-categories: mssql data-type conversion
+categories: 
+  - mssql
+  - data-type
+  - conversion
 ---
 
 In this tutorial I want to show how MSSQL is doing implicit conversion when using `UNION ALL` between various data-types.

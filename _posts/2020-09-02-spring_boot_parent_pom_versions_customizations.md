@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Spring Boot's parent pom versions customizations with various scenarios"
-categories: mssql data-type conversion
+categories: 
+  - maven
+  - pom
+  - versions
 ---
 
 In this tutorial I want to show how to use, or not to use, Spring's parent `pom.xml` with versions update various scenarios.

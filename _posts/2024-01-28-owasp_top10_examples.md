@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "OWASP Top 10 2021 - Sample projects"
-categories: owasp security vulnerabilities
+categories: 
+  - owasp
+  - security
+  - vulnerabilities
 ---
 
 In this tutorial I want to describe few sample projects that show various OWASP Top 10 problems in detail.

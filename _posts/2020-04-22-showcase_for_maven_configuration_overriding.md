@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Showcase for Maven configuration overriding"
-categories: maven configuration overriding
+categories: 
+  - maven
+  - configuration
+  - overriding
 ---
 
 In this showcase I want to show how Maven's configuration parameters are evaluated.
